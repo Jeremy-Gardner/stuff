@@ -1,0 +1,60 @@
+/*logo*/
+body{
+	background-color:white;
+}
+logo{
+	
+}
+logo h2{
+	font-family: 'Lobster', cursive;
+	color:#95040B;
+}
+h3{
+	font-family: 'Open Sans', sans-serif;
+	color:#95040B;
+}
+p{
+	font-family: 'Roboto', sans-serif;
+}
+* {
+  -webkit-border-radius: 0 !important;
+     -moz-border-radius: 0 !important;
+          border-radius: 0 !important;
+}
+.jumbotron .container{
+	color:white;
+	font-family: 'Open Sans', sans-serif;
+	background-image:url("../images/galaxy.jpg");
+	border:0px;
+}
+/*navigation*/
+.navbar-brand{
+	font-family: 'Lobster', sans-serif;
+	color:#95040B;
+}
+/*other*/
+.white{
+	background-color:white;
+}
+#about{
+	background-color:white;
+}
+#one{
+	float:left;
+}
+footer{
+	background-color:black;
+	color:white;
+	height:40px;
+}
+.pads{
+	padding-left:5px;
+	padding-right:5px;
+}
+#Contact{
+	font-family:'Open Sans', sans-serif;
+}
+.btn-default2 {
+    background-color: black;
+    color: white;
+    align:center;
